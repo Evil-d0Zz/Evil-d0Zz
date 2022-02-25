@@ -23,7 +23,9 @@
 <div align=center>
   
   
-![Snake animation](https://github.com/N3w-elf/N3w-elf/blob/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://github.com/N3w-elf/N3w-elf/blob/master/github-contribution-grid-snake.svg)
+  
  
 <div align=justify>
 Hello World! I'm Paulo Oliveira, high school student. Currently, I work with projects that involve the development of solutions for the area of information security. My main programming language is Python, I also program a little in bash. I stand for free, open and clean code.
