@@ -44,6 +44,7 @@ Hello World! I'm Paulo Oliveira, high school student. Currently, I work with pro
 <img alt="bash" src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/-Notion-010101?style=for-the-badge&logo=notion&logoColor=white" />
+<img alt="Notion" src="https://camo.githubusercontent.com/9db8e7865bd6de925e1b60eadb6d32c2478a76e5ea7f520184fe82a3782223c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e616e6f2d3441393045323f7374796c653d666f722d7468652d6261646765266c6f676f3d6e616e6f266c6f676f436f6c6f723d7768697465" />
 <img alt="Vim" src="https://img.shields.io/badge/-Vim-228B22?style=for-the-badge&logo=vim&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />  
 <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
