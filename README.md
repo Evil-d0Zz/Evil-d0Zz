@@ -67,6 +67,7 @@ Hello World! I'm Paulo Oliveira, high school student. Currently, I work with pro
 📘 My top open source projects
 </h4>
 <p align="center">
+    <a href="https://github.com/N3w-elf/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/N3w-elf/Hacking_Help"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Hacking_Help&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/N3w-elf/Calc"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Calc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/N3w-elf/cadastro_simples"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=cadastro_simples&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -86,6 +87,7 @@ Hello World! I'm Paulo Oliveira, high school student. Currently, I work with pro
     <a href="https://github.com/N3w-elf/Hacking_Help"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Hacking_Help&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/N3w-elf/Calc"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Calc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/N3w-elf/PYscanner-"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=PYscanner-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/N3w-elf/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
 📫 Would you ike to meet me?
 
