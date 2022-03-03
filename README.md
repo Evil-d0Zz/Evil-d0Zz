@@ -28,7 +28,7 @@
   
  
 <div align=justify>
-Hello World! I'm Paulo Oliveira, high school student. Currently, I work with projects that involve the development of solutions for the area of information security. My main programming language is Python, I also program a little in bash. I stand for free, open and clean code.
+Hello World! I'm Paulo Oliveira, high school student. Currently, I work with projects that involve the development of solutions for the area of information security. My main programming language is Python and I currently study Rust, I also program a little in bash. I stand for free, open and clean code.
 </div>    
     
  ---
