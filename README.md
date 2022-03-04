@@ -75,8 +75,9 @@ Hello World! I'm Paulo Oliveira, high school student. Currently, I work with pro
     <a href="https://github.com/N3w-elf/permissao_festapermissao_festa"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=permissao_festa&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/N3w-elf/conteudos-full_stack"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=conteudos-full_stack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
-<a href="https://github.com/N3w-elf/PYscanner-"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=PYscanner-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/N3w-elf/party_permission_in_C"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=party_permission_in_C&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 <p align="center">
+  <a href="https://github.com/N3w-elf/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/N3w-elf?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
     
 
