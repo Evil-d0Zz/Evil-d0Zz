@@ -12,9 +12,9 @@
 
 
 [![Paulo Oliveira GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/py_pauloo?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/py_pauloo)
-[![Paulo Oliveira GitHub - GitHub followers](https://img.shields.io/github/followers/N3w-elf?color=green&label=GitHub&logo=GitHub&style=for-the-badge)](https://github.com/N3w-elf)
-<a href="https://github.com/N3w-elf?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/N3w-elf"/></a>
+[![Paulo Oliveira GitHub - GitHub followers](https://img.shields.io/github/followers/Evil-d0Zz?color=green&label=GitHub&logo=GitHub&style=for-the-badge)](https://github.com/Evil-d0Zz)
+<a href="https://github.com/Evil-d0Zz?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Evil-d0Zz"/></a>
 <a href="mailto:paulojosias364@gmail.com?subject=Hello%20Paulo,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 [![Paulo Oliveira GitHub - LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/paulo-oliveira-37ab55232/)](https://www.linkedin.com/in/paulo-oliveira-37ab55232/)
 
@@ -24,7 +24,7 @@
   
   
   
-![Snake animation](https://github.com/N3w-elf/N3w-elf/blob/master/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Evil-d0Zz/Evil-d0Zz/blob/master/github-contribution-grid-snake.svg)
   
  
 <div align=justify>
@@ -58,8 +58,8 @@ Hello World! I'm Paulo Oliveira, high school student. Currently, I work with pro
 </h3>
     
 <p align="center">
-  <a href="https://github.com/N3w-elf/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Paulo Oliveira streak" src="https://github-readme-streak-stats.herokuapp.com/?user=N3w-elf&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/Evil-d0Zz/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Paulo Oliveira streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Evil-d0Zz&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
@@ -68,17 +68,17 @@ Hello World! I'm Paulo Oliveira, high school student. Currently, I work with pro
 📘 My top open source projects
 </h4>
 <p align="center">
-    <a href="https://github.com/N3w-elf/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/Hacking_Help"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Hacking_Help&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/Calc"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Calc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/cadastro_simples"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=cadastro_simples&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/permissao_festapermissao_festa"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=permissao_festa&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/conteudos-full_stack"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=conteudos-full_stack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    <a href="https://github.com/Evil-d0Zz/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/Hacking_Help"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=Hacking_Help&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/Calc"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=Calc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/cadastro_simples"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=cadastro_simples&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/permissao_festapermissao_festa"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=permissao_festa&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/conteudos-full_stack"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=conteudos-full_stack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
-    <a href="https://github.com/N3w-elf/party_permission_in_C"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=party_permission_in_C&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/party_permission_in_C"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=party_permission_in_C&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 <p align="center">
-    <a href="https://github.com/N3w-elf/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/Evil-d0Zz/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
     
 
 </p>
@@ -86,10 +86,10 @@ Hello World! I'm Paulo Oliveira, high school student. Currently, I work with pro
 <h4 align="center">
   📕 Top projects I've contributed to
 </h4>
-    <a href="https://github.com/N3w-elf/Hacking_Help"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Hacking_Help&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/Calc"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Calc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/PYscanner-"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=PYscanner-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/N3w-elf/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N3w-elf&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/Hacking_Help"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=Hacking_Help&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/Calc"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=Calc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/PYscanner-"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=PYscanner-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Evil-d0Zz/Auto_Git"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Evil-d0Zz&repo=Auto_Git&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
 📫 Would you ike to meet me?
 
