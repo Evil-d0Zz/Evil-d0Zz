@@ -11,7 +11,7 @@
 </p>
 
 
-[![D0Zz Evil GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/D0zz_elf?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/D0zz_elf)
+[![D0Zz Evil GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/D0ZzEv1L?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/D0ZzEv1L)
 [![D0Zz Evil GitHub - GitHub followers](https://img.shields.io/github/followers/Evil-d0Zz?color=green&label=GitHub&logo=GitHub&style=for-the-badge)](https://github.com/Evil-d0Zz)
 <a href="https://github.com/Evil-d0Zz?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Evil-d0Zz"/></a>
